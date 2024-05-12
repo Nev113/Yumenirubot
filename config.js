@@ -1,10 +1,10 @@
 const fs = require("fs")
 
-global.owner = ["628xxxxxx"]
+global.owner = ["6283817146590"]
 
 //watermark 
 global.packname = 'Created by'
-global.author = 'Yumeniruu-Md'
+global.author = 'Alk Hamil'
 global.idcennel = '<id_saluran>@newsletter'
 global.thumb = 'Linknya' // Your Thumbnail
 
